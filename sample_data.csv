@@ -1,0 +1,11 @@
+date,trans_type,category,amount,description
+2026-03-01,Income,Salary,5000.00,Base Monthly Salary
+2026-03-02,Expense,Housing,1100.00,Apartment Rent March
+2026-03-03,Expense,Groceries,120.40,Costco wholesale groceries
+2026-03-04,Expense,Transport,45.00,Fuel petrol pump
+2026-03-05,Expense,Food & Dining,65.00,Dinner at Sushi restaurant
+2026-03-06,Expense,Utilities,95.50,Electricity and water bill
+2026-03-07,Expense,Entertainment,20.00,Cinema movie tickets
+2026-03-08,Expense,Shopping,85.00,Amazon desk organizer and lamp
+2026-03-09,Income,Investments,300.00,Stock dividend payout
+2026-03-10,Expense,Healthcare,35.00,Dental clinic visit copay

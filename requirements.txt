@@ -1,0 +1,7 @@
+# Object-Oriented Expense Tracker
+# Note: The project is purposefully built using Python's Standard Library
+# (sqlite3, csv, datetime, unittest) so that it runs out-of-the-box without extra dependencies.
+
+# Optional development packages (uncomment if you wish to install):
+# pytest>=7.0.0
+# flake8>=6.0.0
